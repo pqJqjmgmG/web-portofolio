@@ -1,0 +1,72 @@
+/* Awal jumbotron */
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  background-image: url('../img/jb.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 150px 0;
+}
+
+.jumbotron img {
+  width: 150px;
+  border-radius: 25px;
+  box-shadow: 0 3px 5px #fff;
+  margin-bottom: 19px;
+}
+
+.jumbotron h2 {
+  margin-bottom: 15px;
+  color: #1d3d3c;
+}
+
+.jumbotron p {
+  color: #5f918f;
+}
+
+.jumbotron .kata {
+  color: #1d3d3c;
+}
+
+.jumbotron-left {
+  padding-left: 25px;
+}
+
+.about {
+  background-color: #eae9e0;
+}
+
+#hobi {
+  background-color: #2e5656;
+}
+
+#hobi h2 {
+  color: #ffff;
+}
+
+.footer {
+  min-height: 50vh;
+  background-color: #2e5656;
+}
+
+.footer .row .col a {
+  color: white;
+}
+
+.footer .row .col h3 {
+  color: white;
+}
+
+.footer .row .col p {
+  color: white;
+}
+
+.footer .row .col h5 {
+  color: white;
+}
+
+.footer .row .col a:hover {
+  color: #1bbbed;
+}
